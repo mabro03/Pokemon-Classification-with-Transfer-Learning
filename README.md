@@ -24,6 +24,8 @@
 ├── best_model.pth            # [자동 생성] 가장 성능이 좋은 최적의 모델 파일
 └── Exp*_learning_curve.png   # [자동 생성] 각 실험별 학습 곡선 그래프 이미지
 
+---
+
 ## 각 모델의 learning curve
 ![첫 번째 모델](./Exp1_ResNet18_Pretrained_learning_curve.png)
 ![두 번째 모델](./Exp2_ResNet18_Scratch_learning_curve.png)

@@ -16,7 +16,7 @@
 ## 각 모델의 learning curve
 ![첫 번째 모델](./Exp1_ResNet18_Pretrained_learning_curve.png)
 ![두 번째 모델](./Exp2_ResNet18_Scratch_learning_curve.png)
-![세 번째 모델](./Exp3_MobileNet_pretrained_learning_curve.png)
+![세 번째 모델](./Exp3_MobileNet_Pretrained_learning_curve.png)
 ![네 번째 모델](./Exp4_MobileNet_Scratch_learning_curve.png)
 
 ## 데모 GUI 실행 예제 이미지
